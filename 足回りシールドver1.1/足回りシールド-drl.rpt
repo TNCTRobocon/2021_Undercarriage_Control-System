@@ -1,0 +1,29 @@
+Drill report for C:\Users\yaa3k\Desktop\工作系\ロボコン系\足回りシールド\足回りシールド.kicad_pcb
+Created on 2021/06/19 16:20:13
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file '足回りシールド.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.40mm  0.016"  (29 holes)
+    T2  0.75mm  0.030"  (13 holes)
+    T3  0.76mm  0.030"  (111 holes)
+    T4  0.80mm  0.031"  (18 holes)
+    T5  0.90mm  0.035"  (8 holes)
+    T6  1.00mm  0.039"  (78 holes)
+    T7  4.50mm  0.177"  (10 holes)
+
+    Total plated holes count 267
+
+
+Not plated through holes are merged with plated holes
+    unplated through holes:
+    =============================================================
+    T8  3.20mm  0.126"  (4 holes)
+
+    Total unplated holes count 4
